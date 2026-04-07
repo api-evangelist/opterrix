@@ -1,6 +1,7 @@
 aid: opterrix
 name: Opterrix
-description: "Inform and automate key decision-making throughout the insurance value chain.\_\_ "
+description: >-
+  Inform and automate key decision-making throughout the insurance value chain.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -15,7 +16,8 @@ specificationVersion: '0.19'
 apis:
   - aid: opterrix:opterrix
     name: Opterrix
-    description: "Inform and automate key decision-making throughout the insurance value chain.\_\_ "
+    description: >-
+      Inform and automate key decision-making throughout the insurance value chain.
     humanURL: ' https://www.opterrix.com/data-api'
     tags:
       - API
