@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://www.opterrix.com/data-api
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/opterrix
   - type: Website
     url: https://www.opterrix.com/
   - type: Data API
