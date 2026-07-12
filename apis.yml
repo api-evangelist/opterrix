@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://www.opterrix.com/data-api
 common:
+  - type: DomainSecurity
+    url: security/opterrix-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/opterrix
   - type: Website
