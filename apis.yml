@@ -42,7 +42,7 @@ tags:
   - Underwriting
   - Weather Data
 created: '2025-02-17'
-modified: '2026-04-28'
+modified: '2026-10-06'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/opterrix/refs/heads/main/apis.yml
 specificationVersion: '0.23'
@@ -68,6 +68,10 @@ apis:
       - type: Documentation
         url: https://www.opterrix.com/data-api
 common:
+  - url: https://www.opterrix.com/en/news
+    type: Blog
+  - url: https://www.opterrix.com/en/news/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/opterrix-domain-security.yml
   - type: LinkedIn
